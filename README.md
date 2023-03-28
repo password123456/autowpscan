@@ -8,7 +8,9 @@
 [made-with-python]: https://img.shields.io/badge/Made%20with-Python-1f425f.svg
 
 
-An automated tool that automatically scanning a list of multiple websites with wordpress at once. Requires wpscan.
+An automated tool that automatically scanning a list of multiple websites with wordpress at once. 
+
+Requires wpscan.
 
 
 ## Introduction
